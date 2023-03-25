@@ -1,0 +1,6 @@
+# Ignore files and directories commonly excluded
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.tmp
